@@ -1,5 +1,5 @@
 # Grey-Infection
-2D Platform-puzzle game for Xbox Live Indie Games.
+2D Puzzle-Platformer Adventure game for Xbox Live Indie Games.
 
 ##### History:
 My first professional game developed in a game studio. A 2D Puzzle-Platformer Adventure, based on White & World, a Game Jam project in which some members of the team worked, and that you can found in my portfolio.
