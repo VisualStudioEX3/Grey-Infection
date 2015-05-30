@@ -1,4 +1,4 @@
-# Grey-Infection
+# Grey-Infection (Codename: White & World)
 2D Puzzle-Platformer Adventure game for Xbox Live Indie Games.
 
 ##### History:
