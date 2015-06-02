@@ -5,7 +5,7 @@
 * 2010 - 2011
 
 ##### History:
-My first professional game developed in a game studio. A 2D Puzzle-Platformer Adventure, based on White & World, a Game Jam project in which some members of the team worked, and that you can found in my portfolio.
+My first professional game developed in a game studio (the extint Undead Code Studios). A 2D Puzzle-Platformer Adventure, based on White & World, a Game Jam project in which some members of the team worked, and that you can found in my portfolio.
 
 The game mechanic basically is destroy the enemies, in the correct order, to create or destroy parts of the level, to reach the exit point. The exit point can only be enable when the all enemies are eliminated.
 
