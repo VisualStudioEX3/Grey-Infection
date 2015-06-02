@@ -1,5 +1,8 @@
 # Grey-Infection (Codename: White & World)
-2D Puzzle-Platformer Adventure game for Xbox Live Indie Games.
+#### 2D Puzzle-Platformer Adventure game for Xbox Live Indie Games.
+
+##### Development date/period: 
+* 2010 - 2011
 
 ##### History:
 My first professional game developed in a game studio. A 2D Puzzle-Platformer Adventure, based on White & World, a Game Jam project in which some members of the team worked, and that you can found in my portfolio.
