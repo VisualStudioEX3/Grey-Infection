@@ -1,4 +1,5 @@
 # Grey-Infection (Codename: White & World)
+(© Undead Code Studios 2011)
 #### 2D Puzzle-Platformer Adventure game for Xbox Live Indie Games.
 
 ![grey_infection](http://portfolio.visualstudioex3.com/wp-content/uploads/2012/01/greyinfection00.jpg)
